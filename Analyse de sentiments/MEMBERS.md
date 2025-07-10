@@ -1,0 +1,10 @@
+# Membres du Groupe
+
+- **DONFACK Pascal Arthur (M1-GI) – 21P457 (Chef de projet)**
+- TEMGOUA FOBANKE Emmanuelle (M1-GI) – 21P436
+- FEKE Jimmy (M1-GI) – 21P474
+- TIWA TIOTSAP (M1-GI) – 21P450
+- WESSIBASSIEBAH Mike (M1-GI) – 21P459
+- MBOLANG TIDANG Henri (M1-GI) – 21P471
+- DONGMO PRINCE WILLIAMS (M1-GI) – 21P445
+- TOLOKOUM David Rive (M1-GI) – 21P478
